@@ -2,3 +2,5 @@
 /api/target/
 /db/target/
 /service/target/
+/.idea/
+/src/
